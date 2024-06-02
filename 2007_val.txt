@@ -1,0 +1,706 @@
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10_rotate90.jpg 590,647,1290,771,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10_vertical.jpg 883,340,1011,1123,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10003.jpg 150,131,457,315,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10005.jpg 280,183,382,589,7 149,152,329,605,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10018.jpg 180,186,994,513,7 351,282,1116,621,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10028.jpg 541,87,752,262,7 478,374,738,451,7 446,445,795,543,7 157,374,313,577,7 26,96,331,243,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1003.jpg 802,693,1098,963,4 314,1073,523,1199,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1003_rotate90.jpg 1027,593,1272,848,4 1364,1117,1475,1279,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10032.jpg 10,1,373,279,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10046.jpg 135,99,492,362,7 212,150,498,412,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10059.jpg 50,27,315,402,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1006_rotate90.jpg 1142,585,1347,850,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1007_rotate90.jpg 1083,583,1306,868,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10072.jpg 171,11,388,248,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10075.jpg 134,303,395,499,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10085.jpg 207,70,383,494,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10098.jpg 1768,1494,4118,2483,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10110.jpg 225,162,460,335,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10120.jpg 278,191,635,405,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10124.jpg 10,46,333,197,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10125.jpg 126,3,468,317,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1013_horizontal.jpg 1147,626,1258,738,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10141.jpg 29,9,127,85,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10148.jpg 357,313,580,426,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10150.jpg 105,148,777,396,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10152.jpg 38,136,723,373,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10156.jpg 74,66,165,250,7 195,45,343,265,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1016_rotate90.jpg 833,532,1206,741,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1017_horizontal.jpg 802,532,1022,927,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10182.jpg 13,65,711,556,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10185.jpg 122,106,250,214,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10191.jpg 152,99,427,204,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1020_horizontal.jpg 977,568,1036,654,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10209.jpg 388,127,467,310,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10217.jpg 119,413,608,652,7 573,72,632,264,7 402,98,584,231,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10218.jpg 198,136,668,380,7 149,526,232,724,7 215,563,377,693,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10227.jpg 28,29,245,162,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10230.jpg 157,440,1010,954,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10231.jpg 579,426,1467,996,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10233.jpg 132,78,1028,648,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10237.jpg 125,61,524,342,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10240.jpg 161,102,392,351,7 97,139,265,348,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10255.jpg 283,172,618,512,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10270.jpg 386,35,737,481,7 507,99,802,453,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10271.jpg 190,356,393,810,7 97,228,388,792,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10274.jpg 397,234,1056,1001,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10285.jpg 110,35,327,164,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1029_vertical.jpg 917,549,1191,784,4 1104,908,1303,1086,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10291.jpg 226,442,1199,746,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/103_rotate90.jpg 870,619,1100,700,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10301.jpg 160,79,287,316,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10305.jpg 92,54,610,360,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10312.jpg 79,41,420,216,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10315.jpg 148,57,444,449,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10319.jpg 36,123,312,273,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10320.jpg 329,320,595,474,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10337.jpg 451,421,1310,818,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1034_horizontal.jpg 882,454,1107,759,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10351.jpg 71,242,877,645,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10354.jpg 69,280,865,691,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10359.jpg 651,256,1426,624,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1036_vertical.jpg 887,517,1118,795,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10370.jpg 115,196,539,430,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10409.jpg 73,61,276,250,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1041.jpg 857,611,1101,969,4 1093,560,1390,897,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10412.jpg 112,63,353,177,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1042.jpg 891,635,1142,1004,4 1118,590,1416,928,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1042_horizontal.jpg 863,637,1104,1008,4 576,600,866,930,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1042_rotate90.jpg 921,295,1247,553,4 960,537,1307,764,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10429.jpg 186,66,324,482,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10440.jpg 153,99,770,371,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10446.jpg 1423,650,2381,1205,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10452.jpg 43,45,196,180,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10458.jpg 47,55,350,231,7 22,106,428,294,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1048.jpg 887,459,1117,703,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10481.jpg 422,382,883,631,7 519,326,859,477,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10484.jpg 34,46,193,128,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1049_horizontal.jpg 934,451,1144,691,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10496.jpg 41,78,342,224,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10511.jpg 188,250,1015,605,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10512.jpg 190,244,1037,589,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1052_vertical.jpg 1276,395,1523,684,4 1139,544,1343,776,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10533.jpg 250,75,514,286,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10541.jpg 208,436,567,615,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10551.jpg 117,281,426,397,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1056.jpg 1003,358,1252,637,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10568.jpg 30,58,69,81,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1057_horizontal.jpg 713,701,1134,1030,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10570.jpg 32,40,70,61,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10576.jpg 193,352,410,548,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10579.jpg 29,169,701,359,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1061_vertical.jpg 838,382,1142,841,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1062_rotate90.jpg 899,379,1113,634,4 912,760,1136,1011,4 726,541,867,767,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10628.jpg 154,90,596,259,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10635.jpg 55,135,420,332,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10648.jpg 73,69,426,168,7 26,108,486,286,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10661.jpg 210,204,779,515,7 216,279,945,595,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10685.jpg 197,69,994,501,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10689.jpg 226,320,974,644,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10691.jpg 250,186,412,284,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10697.jpg 36,214,909,750,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1071_rotate90.jpg 833,495,1272,824,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10717.jpg 96,94,440,303,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10718.jpg 369,657,531,942,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1072_rotate90.jpg 929,607,1025,728,5 870,583,931,670,5 642,886,729,1013,5 487,875,580,985,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1072_vertical.jpg 937,623,1063,749,5 971,742,1098,816,5 619,969,769,1062,5 107,1037,230,1104,5 642,1132,772,1226,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10733.jpg 378,308,818,537,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10755.jpg 268,171,591,356,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1076_horizontal.jpg 858,570,1256,895,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1076_vertical.jpg 734,435,1151,765,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1077_horizontal.jpg 818,534,1216,872,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1078_horizontal.jpg 790,623,1226,892,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10783.jpg 51,97,399,200,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10785.jpg 22,67,459,361,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1080_horizontal.jpg 789,581,1218,877,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1080_rotate90.jpg 917,476,1212,869,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10805.jpg 129,71,610,255,7 73,223,694,431,7 13,383,759,569,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10826.jpg 130,167,1038,576,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10846.jpg 38,160,572,287,7 224,401,567,541,7 151,514,457,657,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10861.jpg 403,174,760,583,7 202,128,695,687,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10868.jpg 77,53,193,93,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1087.jpg 895,426,1141,744,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/109_vertical.jpg 1306,436,1509,755,1 915,521,1094,943,1 905,82,1077,502,1 1132,659,1277,1017,1 1262,973,1368,1225,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1090_rotate90.jpg 828,492,1083,907,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10906.jpg 250,148,886,321,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10907.jpg 331,396,910,537,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1091_rotate90.jpg 817,423,1167,737,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10916.jpg 285,215,390,616,7 171,180,320,648,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10926.jpg 85,37,290,244,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10927.jpg 112,108,241,317,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10930.jpg 51,84,379,241,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1094_vertical.jpg 881,444,1122,790,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10941.jpg 390,101,1387,969,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10961.jpg 251,191,421,285,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10969.jpg 180,96,790,249,7 240,248,686,383,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10971.jpg 29,26,164,81,7 235,124,330,174,7 354,149,437,229,7 349,228,440,302,7 178,156,231,221,7 144,221,239,291,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10976.jpg 150,73,559,324,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/10997.jpg 59,273,897,699,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1100.jpg 941,498,1230,737,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11002.jpg 24,32,89,139,7 102,20,185,141,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11004.jpg 207,219,721,504,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11015.jpg 5,89,47,187,7 38,66,107,173,7 136,81,171,171,7 175,109,203,196,7 215,177,256,257,7 118,228,148,257,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1102.jpg 1010,523,1280,763,4 936,520,1046,628,5 691,452,869,636,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11031.jpg 328,288,1151,702,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11047.jpg 207,231,692,514,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1106_vertical.jpg 1003,674,1161,855,5 1148,702,1291,858,5 510,334,637,491,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11064.jpg 143,83,354,270,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1107_horizontal.jpg 1786,671,1839,761,5 1576,499,1652,568,5 1520,484,1580,566,5 736,912,811,1002,5 298,691,368,770,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1107_vertical.jpg 154,564,217,644,5 351,755,409,827,5 425,760,473,830,5 1187,333,1269,408,5 1630,557,1706,635,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11087.jpg 1780,1391,4083,2197,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11088.jpg 1615,1368,3950,2186,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11098.jpg 218,136,506,387,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11100.jpg 231,53,512,287,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11115.jpg 107,121,506,347,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11116.jpg 279,240,1007,535,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1113_rotate90.jpg 905,464,1140,858,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11135.jpg 188,146,915,420,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11154.jpg 312,111,1024,448,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1116_rotate90.jpg 1179,786,1294,884,5 817,361,1050,658,6 842,659,1067,944,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11163.jpg 258,101,586,213,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11178.jpg 789,611,2712,1828,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/11188.jpg 167,293,576,487,7
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1120.jpg 590,761,689,902,5 753,424,1171,695,6 1143,483,1448,748,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1121_horizontal.jpg 1343,720,1448,852,5 875,377,1288,649,6 579,442,888,701,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1122_horizontal.jpg 1274,741,1372,858,5 789,392,1202,662,6 488,457,823,723,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1123_vertical.jpg 966,196,1092,328,5 777,704,1199,979,6 1178,612,1557,874,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1124_horizontal.jpg 734,527,1236,852,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1124_vertical.jpg 737,468,1276,802,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1129_horizontal.jpg 795,319,957,439,4 1053,521,1311,759,4 905,780,1093,917,4 717,575,975,921,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1129_vertical.jpg 680,576,957,790,4 910,395,1071,539,4 1045,410,1275,735,4 1028,860,1202,1017,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1130_vertical.jpg 721,351,1007,573,4 1066,651,1259,817,4 1101,214,1335,534,4 951,190,1122,332,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1133_vertical.jpg 593,817,810,1027,4 1052,931,1240,1130,4 967,483,1373,869,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1134.jpg 1005,466,1404,873,4 1101,159,1270,349,4 645,254,872,417,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1138_rotate90.jpg 791,340,1046,727,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1141_vertical.jpg 1014,545,1426,886,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1148_rotate90.jpg 989,508,1124,655,4 814,565,1072,781,4 1159,1174,1346,1323,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/115_vertical.jpg 1067,543,1094,758,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1152_vertical.jpg 1018,615,1219,796,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1156.jpg 982,448,1134,595,5 860,582,1144,804,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1156_horizontal.jpg 853,581,1120,815,5 874,446,1027,584,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1158_rotate90.jpg 790,600,983,786,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1163_horizontal.jpg 819,538,1034,720,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1163_rotate90.jpg 882,523,1040,670,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1164_vertical.jpg 872,593,1007,747,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1167.jpg 853,604,1034,796,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1168_rotate90.jpg 724,513,1374,970,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1173.jpg 996,444,1181,652,4 1021,636,1228,799,5 871,703,1049,890,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1173_rotate90.jpg 810,504,989,676,4 985,451,1135,626,5 1025,618,1206,781,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1174_horizontal.jpg 795,549,1009,712,5 1006,595,1156,805,5 869,376,1053,553,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1176.jpg 978,455,1156,617,5 1042,608,1242,786,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1177_horizontal.jpg 864,473,1066,638,5 768,633,985,801,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1178_rotate90.jpg 1426,386,1505,486,5 1487,446,1566,548,5 918,569,1195,786,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1178_vertical.jpg 844,440,1116,745,6 1119,27,1240,114,5 1196,88,1313,181,5 1,679,112,847,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1181_vertical.jpg 1211,311,1356,420,5 1273,436,1438,545,5 676,684,1007,1118,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1182_vertical.jpg 1292,314,1442,401,5 1367,437,1506,532,5 772,684,1078,1080,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1183_horizontal.jpg 779,604,890,723,5 636,709,716,844,5 1107,430,1423,823,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1184_rotate90.jpg 954,388,1052,478,5 1074,563,1229,703,5 924,825,1303,1120,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1185_rotate90.jpg 906,370,1046,469,5 1096,541,1221,683,5 1000,787,1438,1117,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1187_rotate90.jpg 875,546,1135,818,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1202_vertical.jpg 545,997,821,1269,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1203.jpg 807,547,1108,838,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1204_vertical.jpg 872,562,1128,825,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1210_horizontal.jpg 728,496,949,774,4 922,673,1159,925,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1211_horizontal.jpg 700,396,897,643,4 896,560,1130,820,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1213.jpg 898,660,1207,881,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1216.jpg 834,575,1170,827,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1218_rotate90.jpg 1034,523,1216,728,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1221_horizontal.jpg 1001,341,1240,591,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1221_rotate90.jpg 723,689,951,902,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1222.jpg 925,470,1164,780,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1222_horizontal.jpg 822,511,1066,775,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1230_horizontal.jpg 696,563,1060,857,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1234_rotate90.jpg 832,544,1038,718,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1236_vertical.jpg 1225,419,1416,658,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1239_horizontal.jpg 763,609,1061,916,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1243_horizontal.jpg 707,546,1016,805,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1244.jpg 494,962,663,1224,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1244_horizontal.jpg 661,959,841,1239,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1245.jpg 879,507,1141,875,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1247_vertical.jpg 719,370,1084,789,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1248_horizontal.jpg 766,419,980,634,4 809,607,1090,945,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/125_rotate90.jpg 982,570,1111,633,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1253_horizontal.jpg 796,828,1095,1115,4 940,566,1329,836,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1253_vertical.jpg 637,477,1081,750,6 888,220,1183,492,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1259.jpg 898,578,1157,787,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1261.jpg 761,397,1028,796,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1261_vertical.jpg 750,528,1019,910,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1263_vertical.jpg 1062,627,1279,879,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1264.jpg 1001,418,1219,674,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1266.jpg 1078,496,1328,693,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1272_rotate90.jpg 968,635,1323,1071,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1276_rotate90.jpg 856,676,931,737,5 952,712,1078,777,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1278.jpg 857,584,924,662,5 801,712,888,818,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/128.jpg 776,658,1412,831,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1281_rotate90.jpg 976,730,1070,812,5 1084,464,1193,544,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1284_rotate90.jpg 934,645,1059,758,5 1019,765,1148,847,5 1195,721,1357,837,4 894,400,1043,518,4 800,498,908,601,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1285_vertical.jpg 833,522,1084,693,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1293.jpg 794,572,1204,823,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1293_rotate90.jpg 897,464,1129,848,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1295.jpg 789,639,1214,945,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1297.jpg 639,399,1123,1119,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/13_horizontal.jpg 931,243,1098,1076,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1306_vertical.jpg 916,404,1252,902,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1313_vertical.jpg 892,578,1061,697,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1314.jpg 872,618,1048,784,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1317_rotate90.jpg 914,514,1285,782,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1319.jpg 878,452,1243,944,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1321_rotate90.jpg 868,489,1244,686,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1324.jpg 821,400,1080,1009,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1340_vertical.jpg 912,579,1121,843,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1343_vertical.jpg 798,349,1102,754,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1351_vertical.jpg 884,400,1212,757,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1355_horizontal.jpg 822,616,1059,807,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1358.jpg 1142,537,1335,797,4 1296,625,1498,919,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1358_vertical.jpg 1127,545,1335,766,4 1263,382,1507,675,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1361_vertical.jpg 851,600,1073,816,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1362_vertical.jpg 996,684,1234,926,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1364.jpg 1032,554,1385,879,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1367.jpg 622,575,897,747,4 1010,560,1307,794,4 881,342,1142,494,4 162,351,384,536,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1371_rotate90.jpg 635,575,967,995,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1378_vertical.jpg 959,663,1207,960,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1387_horizontal.jpg 686,452,1002,885,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1388_vertical.jpg 1054,431,1362,866,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/139_rotate90.jpg 980,345,1125,924,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1395_horizontal.jpg 668,519,1033,805,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1397.jpg 727,550,1070,824,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1398_rotate90.jpg 889,631,1146,980,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/140.jpg 1007,506,1139,896,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1403_rotate90.jpg 901,613,1233,877,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1406_horizontal.jpg 811,483,1112,877,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1411_vertical.jpg 728,470,1075,857,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1412_rotate90.jpg 901,593,1248,817,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1413_horizontal.jpg 913,537,1148,860,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1414_vertical.jpg 844,474,1166,826,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1417_rotate90.jpg 960,547,1328,824,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1418_rotate90.jpg 823,636,1166,848,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1419.jpg 850,533,1113,899,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/142_horizontal.jpg 742,1,817,75,1 745,399,815,839,1 895,493,943,867,1 53,893,96,1061,1 194,71,331,297,1 572,360,628,466,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1422_rotate90.jpg 795,514,1036,759,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1425_rotate90.jpg 744,517,1095,799,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1427_vertical.jpg 754,396,1168,734,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1429_rotate90.jpg 740,473,1043,897,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1431_rotate90.jpg 947,504,1144,805,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1433_rotate90.jpg 908,648,1040,747,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1439_rotate90.jpg 734,108,1205,781,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1442_vertical.jpg 808,28,1309,870,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1446_vertical.jpg 826,567,1237,909,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1447_rotate90.jpg 774,258,1305,822,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1449_horizontal.jpg 768,546,1455,1057,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1453.jpg 675,594,1123,966,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1454_rotate90.jpg 856,493,1186,876,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1458.jpg 827,509,1228,812,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1458_horizontal.jpg 710,496,1141,828,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1459_vertical.jpg 368,736,708,1248,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1463_rotate90.jpg 303,910,1052,1339,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1466_horizontal.jpg 544,618,927,1282,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1466_vertical.jpg 358,721,793,1383,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1467_horizontal.jpg 470,659,890,1311,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1472_horizontal.jpg 761,512,1198,1028,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1473_horizontal.jpg 823,444,1234,974,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1474_vertical.jpg 730,408,1153,937,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1479_rotate90.jpg 805,451,1120,880,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/148.jpg 805,365,1056,754,1 890,368,1182,780,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1481_horizontal.jpg 943,597,1170,832,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1489_rotate90.jpg 773,461,1221,765,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/149_rotate90.jpg 796,430,1167,700,1 782,542,1149,751,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1491_horizontal.jpg 859,537,1218,1027,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1491_rotate90.jpg 884,526,1321,818,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1496.jpg 868,612,1080,837,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1501_horizontal.jpg 727,594,1189,927,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1506.jpg 418,656,818,1293,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1509_horizontal.jpg 899,575,1368,898,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1510_horizontal.jpg 950,532,1379,822,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1512_horizontal.jpg 780,396,1222,693,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1515.jpg 576,487,1055,850,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1516_rotate90.jpg 785,619,1153,1068,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1517_horizontal.jpg 1044,615,1361,836,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1518_rotate90.jpg 933,731,1161,1028,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/152_vertical.jpg 954,525,1215,960,1 770,339,1003,741,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1520_vertical.jpg 474,803,757,1087,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1524_horizontal.jpg 852,495,1101,804,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1525.jpg 542,882,794,1214,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1527_rotate90.jpg 907,523,1187,799,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1529.jpg 924,605,1322,845,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/153.jpg 890,680,1071,1090,1 1026,470,1275,892,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/153_rotate90.jpg 820,413,1206,654,1 1013,597,1386,772,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1536_horizontal.jpg 835,742,960,815,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1543.jpg 1102,726,1208,795,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1543_horizontal.jpg 767,728,893,804,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1551_vertical.jpg 1147,596,1200,652,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1553_vertical.jpg 1132,507,1267,621,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1556_horizontal.jpg 909,191,1136,376,5 976,582,1190,770,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1564.jpg 635,1021,767,1121,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1564_vertical.jpg 646,872,787,990,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1565_horizontal.jpg 794,342,1330,1071,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1567_horizontal.jpg 361,762,861,1452,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1568_horizontal.jpg 835,469,1153,844,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1572.jpg 780,486,1119,1013,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1574_horizontal.jpg 835,769,1156,1173,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1576_rotate90.jpg 893,568,1225,870,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1579_rotate90.jpg 805,549,1187,778,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1582_horizontal.jpg 787,615,948,756,5 953,589,1101,749,5 1185,670,1274,803,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1583_rotate90.jpg 921,507,1098,762,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1585_rotate90.jpg 813,517,1099,719,5 1163,422,1399,670,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1586.jpg 1089,204,1330,485,5 1083,537,1316,853,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1587_vertical.jpg 899,382,1286,622,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1588_vertical.jpg 875,495,1267,734,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/159_rotate90.jpg 848,406,1129,735,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1590_rotate90.jpg 804,443,1226,735,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1599_horizontal.jpg 1030,518,1113,604,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1599_vertical.jpg 883,531,967,602,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/16.jpg 899,166,1066,1027,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/160_vertical.jpg 889,425,1118,849,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1601.jpg 859,421,1223,809,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1601_rotate90.jpg 776,492,1129,805,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1606.jpg 499,910,669,1036,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1608_horizontal.jpg 486,846,593,956,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1609_horizontal.jpg 524,1155,637,1265,5 580,1235,706,1325,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/161.jpg 1039,469,1193,684,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/161_vertical.jpg 1043,643,1195,851,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1615.jpg 521,865,646,1062,6
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1616.jpg 734,460,938,710,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1616_vertical.jpg 700,401,922,667,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1631_horizontal.jpg 952,551,1148,723,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1637.jpg 897,511,1179,750,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1637_vertical.jpg 931,590,1197,827,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1645.jpg 625,579,743,695,5 789,636,874,731,5 1000,533,1118,640,5 1220,423,1319,536,5 1526,550,1638,625,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1645_rotate90.jpg 896,88,970,192,5 781,377,880,458,5 873,556,985,662,5 967,778,1064,852,5 919,899,1032,1006,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1649_rotate90.jpg 849,656,983,803,5 1114,1049,1242,1200,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1649_vertical.jpg 835,671,1011,828,5 399,397,566,527,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/165_vertical.jpg 940,419,1012,876,1 69,948,238,1319,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1651_horizontal.jpg 841,420,1166,746,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1655_horizontal.jpg 850,816,1066,978,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1655_vertical.jpg 930,350,1144,510,4
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1659_rotate90.jpg 946,267,1162,424,5 1031,586,1309,769,5 1111,1206,1342,1308,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/166_horizontal.jpg 1740,42,1906,413,1 962,486,1039,938,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/1660.jpg 853,736,1059,1003,5 1219,626,1425,852,5 260,840,372,1079,5
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/17_vertical.jpg 894,272,1095,1072,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/173_vertical.jpg 666,650,1318,786,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/174_vertical.jpg 975,416,1094,958,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/176.jpg 965,424,1049,927,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/178_horizontal.jpg 1832,762,1892,1186,1 850,414,1123,791,1 982,1,1079,394,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/187_horizontal.jpg 902,470,1059,951,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/189_horizontal.jpg 862,432,1017,912,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/19_rotate90.jpg 669,425,1278,878,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/190_horizontal.jpg 1018,86,1073,307,1 1122,367,1244,798,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/191_horizontal.jpg 906,88,965,305,1 1030,383,1139,793,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/192_rotate90.jpg 798,544,1164,678,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/194.jpg 933,462,1052,874,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/200_vertical.jpg 736,454,1335,859,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/204.jpg 704,387,1331,839,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/208_vertical.jpg 724,505,1334,1001,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/209_horizontal.jpg 962,462,1079,790,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/213_horizontal.jpg 879,406,1000,911,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/215_rotate90.jpg 708,595,1158,711,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/224.jpg 240,634,421,920,1 810,468,943,895,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/224_horizontal.jpg 1062,465,1196,898,1 1588,631,1761,927,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/224_vertical.jpg 805,436,945,857,1 239,413,416,699,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/230_vertical.jpg 1411,527,1572,779,1 1192,784,1286,980,1 1240,664,1347,957,1 764,480,917,672,1 686,329,845,559,1 661,287,797,463,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/231_rotate90.jpg 952,183,1177,328,1 771,438,956,510,1 796,381,1067,473,1 1057,772,1214,907,1 1146,829,1348,972,1 1242,874,1396,1002,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/232_horizontal.jpg 579,648,709,896,1 681,388,802,582,1 615,404,753,683,1 1059,739,1198,943,1 1119,863,1263,1098,1 1180,996,1295,1162,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/235_rotate90.jpg 764,461,1053,587,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/235_vertical.jpg 1092,611,1223,918,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/236_rotate90.jpg 774,471,1063,589,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/238_vertical.jpg 998,490,1240,828,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/242_rotate90.jpg 755,661,1154,740,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/244.jpg 909,458,975,941,1 1831,795,1881,1117,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/244_horizontal.jpg 1012,448,1095,945,1 119,795,173,1120,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/245_vertical.jpg 915,357,970,838,1 1896,182,1936,507,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/246_horizontal.jpg 903,434,1026,841,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/253.jpg 986,363,1188,727,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/260_vertical.jpg 857,511,1074,898,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/261.jpg 1207,477,1374,881,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/265_horizontal.jpg 1059,657,1121,895,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/265_vertical.jpg 888,444,944,683,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/266.jpg 1106,669,1165,899,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/27_rotate90.jpg 801,5,1202,1161,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/272_horizontal.jpg 632,407,722,776,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/272_rotate90.jpg 751,338,1115,408,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/277_vertical.jpg 881,534,984,731,1 1041,896,1147,1045,1 1878,211,1938,453,1 1897,826,1954,1059,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/279_horizontal.jpg 943,559,1002,743,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/288_vertical.jpg 926,445,993,832,1 884,1291,945,1333,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/291.jpg 857,408,1199,951,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/294_vertical.jpg 1010,557,1133,946,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/302_rotate90.jpg 784,639,924,703,1 936,679,1092,808,1 887,595,976,637,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/303.jpg 844,604,1141,837,1 872,739,1025,876,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/306_rotate90.jpg 789,610,1071,667,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/307_rotate90.jpg 785,642,1067,710,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/313_vertical.jpg 946,719,1026,780,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/314.jpg 932,563,1012,616,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/318_vertical.jpg 972,728,1044,784,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/324.jpg 972,627,1049,668,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/325_horizontal.jpg 958,608,1031,649,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/328_vertical.jpg 988,673,1053,707,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/329.jpg 992,636,1055,673,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/332_horizontal.jpg 924,624,1000,670,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/336_horizontal.jpg 960,605,995,665,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/337_rotate90.jpg 951,645,991,677,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/340_horizontal.jpg 994,639,1034,717,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/342_horizontal.jpg 997,639,1032,720,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/342_rotate90.jpg 981,664,1041,698,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/345.jpg 957,688,993,764,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/346_vertical.jpg 951,639,992,683,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/351_vertical.jpg 789,606,823,650,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/352_vertical.jpg 881,653,932,719,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/357.jpg 1030,554,1095,806,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/367_vertical.jpg 918,652,963,709,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/37_horizontal.jpg 659,217,1436,1045,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/37_rotate90.jpg 611,357,1341,1053,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/372_horizontal.jpg 1068,588,1107,626,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/377_vertical.jpg 963,434,1137,818,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/380_vertical.jpg 706,598,1079,701,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/385_horizontal.jpg 886,497,1253,675,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/386_vertical.jpg 657,600,1131,786,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/388_vertical.jpg 1058,552,1481,713,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/392.jpg 685,518,1080,676,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/394.jpg 669,675,1110,790,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/395.jpg 772,517,1193,620,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/395_vertical.jpg 761,708,1205,823,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/397_vertical.jpg 783,614,1187,776,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/40.jpg 781,571,1484,737,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/40_horizontal.jpg 524,568,1217,745,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/408_rotate90.jpg 752,586,976,830,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/410.jpg 719,540,1113,691,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/412.jpg 798,595,1071,829,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/412_vertical.jpg 804,508,1063,742,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/414.jpg 838,522,1116,766,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/414_vertical.jpg 837,576,1106,814,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/415_rotate90.jpg 829,555,1272,662,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/416_horizontal.jpg 889,499,997,952,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/416_rotate90.jpg 826,568,1252,690,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/417.jpg 850,410,921,813,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/418_rotate90.jpg 679,717,1071,806,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/42.jpg 799,482,1633,705,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/427_vertical.jpg 913,710,1057,878,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/428_vertical.jpg 831,669,1001,840,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/433.jpg 1004,517,1202,731,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/443_horizontal.jpg 661,554,1060,697,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/444.jpg 917,465,1097,782,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/445_horizontal.jpg 864,445,1019,773,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/446_horizontal.jpg 870,467,1049,802,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/446_vertical.jpg 986,516,1126,841,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/447_horizontal.jpg 920,509,1117,837,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/447_vertical.jpg 874,487,1080,816,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/448.jpg 820,458,1046,797,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/45.jpg 408,365,1587,591,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/45_vertical.jpg 410,728,1589,965,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/455_rotate90.jpg 754,576,1062,746,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/456_vertical.jpg 895,534,1184,813,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/457.jpg 932,491,1235,745,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/464_rotate90.jpg 841,653,1026,788,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/466_horizontal.jpg 1032,493,1183,702,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/469.jpg 839,558,1001,770,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/469_vertical.jpg 813,567,1009,786,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/47_horizontal.jpg 470,542,1283,816,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/470_horizontal.jpg 840,430,1044,670,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/479_rotate90.jpg 1006,547,1180,810,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/480_rotate90.jpg 939,542,1119,799,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/480_vertical.jpg 856,565,1146,715,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/483.jpg 1059,543,1311,655,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/483_vertical.jpg 1043,658,1299,789,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/503_vertical.jpg 1003,647,1169,812,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/506.jpg 975,612,1201,816,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/507_vertical.jpg 963,547,1182,750,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/511_vertical.jpg 840,543,1073,795,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/514.jpg 763,544,939,828,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/518_rotate90.jpg 846,589,1118,761,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/525.jpg 955,525,1090,782,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/528_horizontal.jpg 918,474,1057,719,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/530.jpg 936,513,1055,762,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/540.jpg 963,494,1088,753,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/541_horizontal.jpg 916,503,1036,764,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/545_horizontal.jpg 857,459,979,718,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/547.jpg 915,492,1025,747,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/55.jpg 700,693,970,802,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/55_rotate90.jpg 1027,691,1119,927,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/550_rotate90.jpg 810,631,1033,736,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/551_vertical.jpg 922,625,1034,868,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/552_horizontal.jpg 937,474,1060,715,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/557_rotate90.jpg 876,612,1100,713,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/559.jpg 975,492,1076,739,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/56_horizontal.jpg 1039,733,1331,803,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/561.jpg 895,410,1042,653,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/562_rotate90.jpg 842,686,979,828,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/563_vertical.jpg 866,689,1082,822,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/565.jpg 707,560,754,745,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/572.jpg 912,589,979,792,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/574_vertical.jpg 772,510,840,740,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/577_horizontal.jpg 1081,464,1151,698,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/599_rotate90.jpg 910,605,1070,663,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/600_horizontal.jpg 1031,530,1118,665,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/607_rotate90.jpg 994,618,1042,739,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/610_horizontal.jpg 884,580,931,763,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/610_rotate90.jpg 930,557,1087,608,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/613_horizontal.jpg 743,1013,1130,1091,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/616_horizontal.jpg 810,800,1193,912,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/62.jpg 580,315,980,656,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/625.jpg 884,351,1112,853,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/625_horizontal.jpg 870,344,1110,848,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/627_rotate90.jpg 757,461,1081,604,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/63_rotate90.jpg 824,728,1050,802,1 1074,821,1284,864,1 1089,867,1227,903,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/630_vertical.jpg 1036,545,1100,747,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/634.jpg 895,421,1045,827,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/634_horizontal.jpg 952,425,1113,827,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/637_horizontal.jpg 863,637,1181,815,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/637_rotate90.jpg 969,539,1131,806,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/640_rotate90.jpg 940,724,1151,970,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/643.jpg 851,559,1043,798,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/644_rotate90.jpg 891,592,1121,753,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/647_vertical.jpg 897,528,1054,936,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/648_horizontal.jpg 1003,653,1087,704,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/653_rotate90.jpg 952,635,990,692,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/654_rotate90.jpg 994,647,1027,702,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/659_vertical.jpg 960,620,1015,666,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/66_rotate90.jpg 630,528,924,641,1 963,689,1224,760,1 974,739,1151,799,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/66_vertical.jpg 1027,751,1150,1077,1 893,420,980,708,1 850,501,920,690,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/662_horizontal.jpg 576,494,640,853,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/664_vertical.jpg 827,604,990,722,0 451,728,554,810,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/667_horizontal.jpg 995,569,1055,666,0 643,463,731,607,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/669_rotate90.jpg 916,617,998,680,0 833,304,961,395,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/670.jpg 930,507,1022,654,0 604,607,666,696,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/672_rotate90.jpg 857,644,981,717,0 939,948,1027,998,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/673_horizontal.jpg 951,660,1031,793,0 1258,772,1313,848,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/675_vertical.jpg 922,499,1001,622,0 645,463,695,544,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/677_rotate90.jpg 475,611,1394,768,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/678_rotate90.jpg 564,599,1224,726,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/679.jpg 972,351,1097,1023,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/680_horizontal.jpg 948,301,1066,971,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/682.jpg 910,383,1070,848,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/683_vertical.jpg 916,439,1079,928,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/687.jpg 1118,790,1149,901,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/692.jpg 925,584,1021,751,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/693_rotate90.jpg 945,716,1084,790,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/694_vertical.jpg 784,554,869,710,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/697.jpg 1010,516,1064,698,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/7_vertical.jpg 833,452,1192,926,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/700_vertical.jpg 924,553,1001,695,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/703_vertical.jpg 940,590,1012,719,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/710_horizontal.jpg 761,472,810,637,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/710_rotate90.jpg 828,444,975,495,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/712_horizontal.jpg 931,640,969,712,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/714_horizontal.jpg 961,640,1001,704,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/716.jpg 848,642,870,703,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/72_horizontal.jpg 854,425,1096,749,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/72_vertical.jpg 899,583,1146,911,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/722_horizontal.jpg 1051,658,1078,744,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/722_vertical.jpg 921,586,946,670,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/723.jpg 924,724,1004,767,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/726_vertical.jpg 904,612,976,986,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/73_horizontal.jpg 1144,358,1242,751,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/74.jpg 759,283,863,668,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/741_vertical.jpg 944,342,1060,853,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/744.jpg 646,482,1031,689,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/749_rotate90.jpg 725,547,1088,1428,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/75_vertical.jpg 641,628,1266,771,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/752_rotate90.jpg 619,440,1007,1144,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/753.jpg 492,240,1300,962,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/754_vertical.jpg 625,585,1501,791,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/755_horizontal.jpg 764,288,1728,601,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/757.jpg 808,587,1247,713,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/763_horizontal.jpg 854,436,1075,649,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/767.jpg 768,480,1077,645,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/767_vertical.jpg 773,682,1077,856,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/769_rotate90.jpg 980,473,1042,864,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/776_rotate90.jpg 938,323,1054,856,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/782_horizontal.jpg 924,426,972,706,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/783_rotate90.jpg 997,303,1149,902,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/787_rotate90.jpg 957,313,1073,842,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/79_rotate90.jpg 1018,392,1063,705,1 970,765,1033,1055,1 931,796,974,984,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/791_vertical.jpg 444,502,1483,754,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/796_horizontal.jpg 668,490,1168,988,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/796_vertical.jpg 836,331,1339,835,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/8.jpg 866,184,1027,974,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/80_rotate90.jpg 1014,406,1054,730,1 966,786,1033,1071,1 928,818,965,1002,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/807_vertical.jpg 762,351,1324,772,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/812_rotate90.jpg 933,328,1061,895,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/817_vertical.jpg 554,597,1655,910,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/821.jpg 764,335,1350,768,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/821_rotate90.jpg 716,361,1095,877,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/821_vertical.jpg 761,560,1355,983,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/824_vertical.jpg 512,564,1533,817,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/826_horizontal.jpg 917,504,993,854,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/827_horizontal.jpg 855,365,1242,886,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/829_rotate90.jpg 838,43,1025,1049,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/833.jpg 799,382,1277,860,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/838_rotate90.jpg 776,209,936,961,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/839_horizontal.jpg 391,406,1217,797,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/840.jpg 695,354,1549,634,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/841_horizontal.jpg 562,328,1338,498,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/842.jpg 658,275,1544,477,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/842_rotate90.jpg 646,162,838,972,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/846_vertical.jpg 907,605,1565,990,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/849_horizontal.jpg 147,460,1368,761,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/849_rotate90.jpg 810,2,1097,1003,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/852_horizontal.jpg 644,503,1440,691,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/854.jpg 875,466,1460,640,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/854_rotate90.jpg 816,254,987,768,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/856_vertical.jpg 476,635,1646,872,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/857_rotate90.jpg 714,208,833,860,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/858.jpg 629,362,1662,645,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/864_vertical.jpg 554,477,1112,645,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/865_vertical.jpg 701,747,1575,943,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/866_rotate90.jpg 777,73,980,882,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/867_horizontal.jpg 668,523,1317,883,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/872_horizontal.jpg 809,430,1517,582,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/872_rotate90.jpg 788,480,935,1138,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/874.jpg 677,331,1429,508,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/874_vertical.jpg 681,832,1421,972,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/876_horizontal.jpg 699,665,1329,777,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/881_horizontal.jpg 675,677,1372,768,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/885_rotate90.jpg 1044,356,1202,914,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/886_rotate90.jpg 895,323,1177,808,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/887_vertical.jpg 916,654,1149,868,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/891.jpg 868,519,1425,909,0
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/895_vertical.jpg 661,605,1213,783,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/90_horizontal.jpg 961,460,1014,818,1 714,234,783,543,1 591,608,729,1212,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/901_horizontal.jpg 655,701,1279,876,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/902_horizontal.jpg 594,549,1168,879,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/903_vertical.jpg 1029,369,1125,782,1 1039,808,1110,1124,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/907_vertical.jpg 635,737,946,829,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/909_rotate90.jpg 811,732,874,999,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/909_vertical.jpg 626,808,929,872,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/910.jpg 625,450,990,501,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/911_vertical.jpg 803,737,1118,804,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/912_horizontal.jpg 817,721,1379,825,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/918_vertical.jpg 697,557,1315,692,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/919_horizontal.jpg 729,596,1325,722,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/921_vertical.jpg 596,536,1204,646,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/923_rotate90.jpg 885,369,1060,1026,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/927_rotate90.jpg 947,349,1090,996,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/93_horizontal.jpg 742,456,1351,689,3
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/930.jpg 633,532,1356,675,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/931_rotate90.jpg 924,306,1051,951,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/933_vertical.jpg 810,283,936,974,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/934_vertical.jpg 792,428,1067,1110,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/940_vertical.jpg 894,337,1067,1024,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/941.jpg 890,337,1060,1043,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/945.jpg 917,393,1110,1082,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/945_horizontal.jpg 876,390,1067,1081,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/948_vertical.jpg 900,203,1111,871,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/949.jpg 854,426,1100,1093,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/953_rotate90.jpg 931,369,1103,974,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/96_horizontal.jpg 1834,798,1907,900,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/960_rotate90.jpg 689,674,1307,822,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/961_rotate90.jpg 661,597,1297,737,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/961_vertical.jpg 931,342,1081,1040,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/962_rotate90.jpg 758,511,1378,750,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/970_rotate90.jpg 961,551,1303,1111,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/973_vertical.jpg 513,357,1139,736,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/974_vertical.jpg 539,376,1161,750,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/975.jpg 532,586,1151,974,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/978.jpg 461,636,1086,1012,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/978_rotate90.jpg 967,585,1303,1149,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/978_vertical.jpg 469,325,1086,704,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/980_horizontal.jpg 935,628,1101,886,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/981_horizontal.jpg 850,553,1472,942,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/982_rotate90.jpg 918,514,1244,1074,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/983_rotate90.jpg 813,501,1276,968,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/983_vertical.jpg 674,362,1189,878,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/984.jpg 660,490,1176,1014,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/984_horizontal.jpg 829,490,1342,1004,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/99.jpg 1033,543,1077,874,1
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/991.jpg 563,606,1253,794,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/992_horizontal.jpg 750,651,1439,840,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/992_rotate90.jpg 985,446,1149,1069,2
+/root/autodl-tmp/padi/PestAndDiseaseIdentification/VOCdevkit/VOC2007/JPEGImages/995.jpg 599,579,1278,783,2

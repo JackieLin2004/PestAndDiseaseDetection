@@ -6,4 +6,20 @@
 
 ### 主要借助的参考代码 [>>> 传送门](https://github.com/bubbliiiing/yolov5-pytorch)
 
+### 训练过程
+
+![1.png](logs%2Floss_2024_06_01_14_25_54%2F1.png)
+
+![2.png](logs%2Floss_2024_06_01_14_25_54%2F2.png)
+
+### 检测结果
+
+![3.png](logs%2Floss_2024_06_01_14_25_54%2F3.png)
+
+### 评估指标
+
+![epoch_loss.png](logs%2Floss_2024_06_01_14_25_54%2Fepoch_loss.png)
+
+![epoch_map.png](logs%2Floss_2024_06_01_14_25_54%2Fepoch_map.png)
+
 ### 本项目仅供学习交流使用，转载请注明来处！！！

@@ -1,4 +1,4 @@
-## YOLOV5：You Only Look Once目标检测模型在pytorch当中的实现（edition v5.0 in Ultralytics）
+YOLOV5：You Only Look Once目标检测模型在pytorch当中的实现（edition v5.0 in Ultralytics）
 ---
 
 ## 目录

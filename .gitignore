@@ -1,0 +1,9 @@
+/model_data/yolov5_l.pth
+/model_data/yolov5_m.pth
+/model_data/yolov5_x.pth
+
+/VOCdevkit/*.csv
+/VOCdevkit/*.txt
+
+/VOCdevkit/VOC2007/Annotations/*.xml
+/VOCdevkit/VOC2007/JPEGImages/*.jpg
